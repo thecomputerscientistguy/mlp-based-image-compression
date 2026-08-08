@@ -96,11 +96,11 @@ best_weights.pkl
 ## Project Structure
 
 ```
-.
-├── data
+./
+├── data/
 │   ├── train
 │   └── test
-├── notebooks
+├── notebooks/
 │   └── main.ipynb
 ├── requirements.txt
 └── README.md
